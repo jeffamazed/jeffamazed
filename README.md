@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner-image.png" alt="Black hole accretion disk and corona illustration by Aurore Simonnet and NASA's Goddard Space Flight Center" width="100%">
+</p>
+
 # Hi, I'm Jeffry 👋
 ### Full-Stack Web Developer & Performance Engineer
 
