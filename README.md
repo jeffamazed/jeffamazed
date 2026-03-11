@@ -72,6 +72,15 @@ When I'm not debugging race conditions or optimizing full-stack render cycles, y
 
 ---
 
+### 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffamazed&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff" alt="Jeffry's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffamazed&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=ffffff" alt="Top Languages" height="170" />
+</p>
+
+---
+
 ### 📫 Connect with me
 
 - **Portfolio:** [jeffry.dev](https://your-portfolio-link.com)
