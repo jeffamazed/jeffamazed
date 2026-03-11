@@ -2,14 +2,25 @@
   <img src="./banner-image.png" alt="Black hole accretion disk and corona illustration by Aurore Simonnet and NASA's Goddard Space Flight Center" width="100%">
 </p>
 
+---
+
 # Hi, I'm Jeffry 👋
 ### Full-Stack Web Developer & Performance Engineer
 
-Full-stack developer with an aspiring mindset for high-performance, type-safe web architecture. Dedicated to mastering scalable systems and creating accessible experiences through the lens of robust, automated testing.
+I am a Full-Stack Developer driven by the belief that the web should be an open, inclusive frontier. My mission is to build high-performance, type-safe architectures where **accessibility isn't an afterthought—it’s the foundation.**
+
+I specialize in bridging the gap between complex, scalable systems and intuitive, WCAG-compliant interfaces. I ensure that every digital solution I deliver is as robust under the hood as it is accessible to every user, regardless of how they navigate the web.
+
+By combining a rigorous testing philosophy (**Vitest/Playwright**) with semantic HTML and modern tooling (**Next.js 16/Tailwind v4**), I build experiences that are seamless, inclusive, and engineered for peak performance.
 
 --- 
 
 ### 🛠️ Tech & Tools
+
+#### ♿ Core Philosophy & Standards
+![A11y Focused](https://img.shields.io/badge/Accessibility-A11Y-007ACC?style=for-the-badge&logo=accessibility&logoColor=white)
+![WCAG 2.2](https://img.shields.io/badge/WCAG_2.2-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
+![Semantic HTML](https://img.shields.io/badge/Semantic_HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### 🟢 Full-Stack Execution
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
