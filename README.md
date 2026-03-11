@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jeffry 👋
+### Full-Stack Web Developer & Performance Engineer
 
-<!--
-**jeffamazed/jeffamazed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with an aspiring mindset for high-performance, type-safe web architecture. Dedicated to mastering scalable systems and creating accessible experiences through the lens of robust, automated testing.
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- **Inventory Management Application:** A performance-first application featuring secure multi-step authentication and specialized data-heavy grids for managing complex, high-volume datasets.
+
+---
+
+### 📫 Connect with me
+- **Portfolio:** [jeffry.dev](https://your-portfolio-link.com)
