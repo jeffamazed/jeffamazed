@@ -102,4 +102,5 @@ When I'm not debugging race conditions or optimizing full-stack render cycles, y
 
 ### 📫 Connect with me
 
-- **Portfolio:** [jeffry.dev](https://your-portfolio-link.com)
+- **Portfolio:** [Jeffry | Full Stack Web Developer](https://jeffamazed-portfolio-web.vercel.app/)
+- **X:** [@jeffamazed14](https://x.com/jeffamazed14)
