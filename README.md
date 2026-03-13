@@ -102,5 +102,5 @@ When I'm not debugging race conditions or optimizing full-stack render cycles, y
 
 ### 📫 Connect with me
 
-- **Portfolio:** [Jeffry | Full Stack Web Developer](https://jeffamazed-portfolio-web.vercel.app/)
-- **X:** [@jeffamazed14](https://x.com/jeffamazed14)
+- **Portfolio:** <a href="https://jeffamazed-portfolio-web.vercel.app/" target="_blank">Jeffry | Full Stack Web Developer</a>
+- **X:** <a href="https://x.com/jeffamazed14" target="_blank">@jeffamazed14</a>
